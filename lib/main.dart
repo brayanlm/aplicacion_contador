@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           padding: EdgeInsets.all(20),
           child: Column(
             children: [
-              Center(child: Text('Bienvenidos')),
+              Center(child: Text('Bienvenidos al mundo de Juanito')),
               ElevatedButton(onPressed: () {}, child: Text('Button 1')),
               SizedBox(height: 20,),
               ElevatedButton(onPressed: () {}, child: Text('Button 2')),
